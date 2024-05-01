@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "454dbf81e4f4d201e4ee38743579a89b669dfb291e896f555fe340fac5825348"
+build_start_time: [1714549267, 660207033]
+build_end_time: [1714549267, 672781944]
+inputs:
+  "/Users/okorokhina/git/skin_cancer_detector/ios/Runner/AppDelegate.swift": !private [1660734924, 747625827]
